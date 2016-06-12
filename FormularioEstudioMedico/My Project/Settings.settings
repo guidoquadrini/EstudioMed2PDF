@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SerialNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sin Nro de Licencia</Value>
+    </Setting>
+    <Setting Name="propietario" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sin Propietario</Value>
+    </Setting>
+    <Setting Name="prestador_default" Type="System.String" Scope="User">
+      <Value Profile="(Default)">No definido</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
